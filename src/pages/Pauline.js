@@ -6,20 +6,18 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hi! I'm Maggie </h1>
+            <h1 className='title'>Hi! I'm Pauline </h1>
           </div>
           
           <img
             className='pic'
-            src='https://i.postimg.cc/R0cXXmJZ/IMG-1903.jpg'
-            alt='maggie'
+            src='https://i.postimg.cc/R0cXXmJZ/IMG-1903.jpg' // change picture
+            alt='pauline'
           />
 
           <p className='description'>
-            Hi! I'm Maggie Schneider. I am a student here at CU Boulder and am double majoring
-            in Computer Science and English. I love to watch soccer, especially with my dad. My
-            favorite musical artists as of right now are SZA, Dominic Fike, and Clairo. I have 
-            a dog and cat and I love them both very much. 
+            Hi! I'm Pauline Le Regent Hausman. I am a student here at CU Boulder and am  majoring
+            in Computer Science with a minor in engineering management. // edit later 
           </p>
 
           <a className='button' href='/'>
