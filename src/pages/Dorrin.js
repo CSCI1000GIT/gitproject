@@ -12,7 +12,7 @@ export default function examplePage() {
           
           <img
             className='pic'
-            src='https://postimg.cc/G8VBYNQp'
+            src='https://i.postimg.cc/Gthk0nTv/Whats-App-Image-2023-11-27-at-17-49-36.jpg'
             alt='dorrin'
           />
 
