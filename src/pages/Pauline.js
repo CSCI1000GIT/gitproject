@@ -11,13 +11,13 @@ export default function examplePage() {
           
           <img
             className='pic'
-            src='https://i.postimg.cc/R0cXXmJZ/IMG-1903.jpg' // change picture
+            src='hhttps://postimg.cc/SXfF6G6J' 
             alt='pauline'
           />
 
           <p className='description'>
-            Hi! I'm Pauline Le Regent Hausman. I am a student here at CU Boulder and am  majoring
-            in Computer Science with a minor in engineering management. // edit later 
+            Hi! I'm Pauline Le Regent Hausman. I am a student here at CU Boulder majoring
+            in Computer Science with a minor in engineering management. I love puzzles of all kinds including traditional jigsaws. Most of the time you can find me doing a puzzle and watching a movie or Andy King video. 
           </p>
 
           <a className='button' href='/'>
