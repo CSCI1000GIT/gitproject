@@ -7,13 +7,13 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hi! I'm Maggie </h1>
+            <h1 className='title'>Hi! I'm Dorrin </h1>
           </div>
           
           <img
             className='pic'
             src='https://i.postimg.cc/R0cXXmJZ/IMG-1903.jpg'
-            alt='maggie'
+            alt='dorrin'
           />
 
           <p className='description'>
