@@ -17,10 +17,12 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hi! I'm Maggie Schneider. I am a student here at CU Boulder and am double majoring
-            in Computer Science and English. I love to watch soccer, especially with my dad. My
-            favorite musical artists as of right now are SZA, Dominic Fike, and Clairo. I have 
-            a dog and cat and I love them both very much. 
+          hello!I'm Dorrin.I'm Persian,I'm an international computer student.
+            I like leaving abroad, i went to Turkey for my highschool, 
+            I studied one year of my university in Vyprus, and now for my second year im here@
+            I dont have a favorite color and my favorite animal is cat for sure!!
+            Adios.
+ 
           </p>
 
           <a className='button' href='/'>
